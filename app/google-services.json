@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065878160717",
+    "project_id": "ceki-biantara-a4856",
+    "storage_bucket": "ceki-biantara-a4856.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065878160717:android:abe4a59c4084b34a932304",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn2jw84kYXAox8AMrS2bYRDas87HkPrp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
